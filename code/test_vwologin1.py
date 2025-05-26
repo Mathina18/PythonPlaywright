@@ -5,8 +5,8 @@ from playwright.sync_api import expect, sync_playwright
 
 
 # Page - class -> Help you interact with HTML
-# expect - Validate the message Exepected Resule == Actual Result
-# Validation -> pytest - assert also avaiable.
+# expect - Validate the message Expected Result == Actual Result
+# Validation -> pytest - assert also available.
 
 def test_vwo_login():
     # 1. Browser and Page
@@ -15,7 +15,6 @@ def test_vwo_login():
 
     # 2. Code Interaction with the HTML Web page
     page.goto("https://app.vwo.com")
-    breakpoint()
 
 
     # 3. Validation
