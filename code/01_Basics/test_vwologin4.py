@@ -16,15 +16,18 @@ def test_vwo_login():
     context2 = browser.new_context()
     page1 = context.new_page()
     page2 = context2.new_page()
+    page3= context2.new_page()
 
     # 2. Code Interaction with the HTML Web page
     page1.goto("https://app.vwo.com")
     page2.goto("https://www.google.com")
+    page3.goto("https://thetestingacademy.com")
     #breakpoint()
 
 
     # 3. Validation
     expect(page1).to_have_title("Login - VWO")
+
     # dispose context once it is no longer needed.
     context.close()
 
