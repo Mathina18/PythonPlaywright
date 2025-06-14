@@ -5,11 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46ed9dd-e806-4da9-ae5a-2d7521a9cfab" name="Changes" comment="playwright learning">
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/018d0062-8e8a-4b77-bf68-db5da0f4c25e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/0265bc3f-62ea-4895-93b2-184b459d3386-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/036be2b3-930d-4e73-96ab-4e422714fa2b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/0f108261-68e3-4c52-bf2d-9b284221990f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/19e5a1dd-4dcc-43fe-bdf9-2da099d32966-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/1caa280a-62d1-498c-baf4-d0fa049c813f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/2aeb4017-d45b-4de5-bf3a-e4981e0c4c21-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/342f84dc-0de2-43e3-ad5e-82c934fac0c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/3591e03e-a6b8-48c4-aaa8-e47d51818951-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/3a3b21fc-3dc1-4857-aab3-0fea753d6545-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/3ad0a858-0c57-47ae-80c8-db119a7f0a5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/404b6bb4-d153-48b0-a06e-acaf777b84c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/4a660c32-98f7-4387-8b73-38230d7c6f74-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/5e2188eb-6ec7-4e0a-9b9a-bb738db0f4ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/63fb3232-209b-4a38-b259-5d51dca6ec4d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/6cbe9a87-b06a-47a1-8525-62626ea8b04e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/6df9ba6e-4144-499b-a3ed-40e5355520f7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/71cbe7b2-272d-48ef-aa58-6147437340ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/763140dc-41ce-445a-91df-562aa699292b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/7cf10fe1-2ea4-49ae-a556-19b1418d9a8f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/8b815eba-0212-4130-b1f4-a60cbebd06a3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/8d5b1887-5a33-4240-8c7c-c3758d213d29-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/946bc62a-1b1f-4a71-b98c-a8862bd738cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/952e26a6-22d6-43d2-afde-b8d6bac41138-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/97366bc6-196c-4073-b8a9-e02836ef51f9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/9f1f38bf-aab4-4ab4-8ac6-1bc0cd6efbdb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/a3aa8c57-4857-4c4d-9150-e18fcde951d2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/ad4406af-31fb-4979-9ed5-9e7c4de648d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/b176f710-882f-4bb8-af34-f604f567b40a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/c39d2361-40e3-4600-9688-cacb0a96f862-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/c6ed2ffc-5a10-4545-8670-60f741ddb517-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/d509e589-5787-4ed6-8fd1-7abce82116ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/d5105a1c-4f96-41fa-af48-5702cb251d77-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/dede4db6-9e2a-42f3-8308-7d4c8dbd2fb7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/e4929087-72a0-4c6d-a0d7-02db618dd23e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/f094f6de-e7ad-4c11-95b2-6a4aa09cf5e2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/f2cde70c-3886-428b-a724-910a27796947-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/f86f4904-8003-4d3c-9030-2aa770dbfb77-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/fa24638b-97b1-4ff5-8298-d1b290c84d4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/fa9a309c-aa68-44f7-9043-1470b3e783b5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/fd974422-5f37-44d4-aee0-8ec85c520ab6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-reports/fe79608a-e5c8-409d-b4db-208dc753d29f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/03_projects/test_Project001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/04_basics2/Playwright_File_Upload_Guide.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +101,7 @@
     "Python tests.Python tests for test_Lab004.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_Lab005.test_alerts.executor": "Run",
     "Python tests.Python tests for test_Lab006.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Project001.test_katalon_studio_appointment_booking.executor": "Run",
     "Python tests.Python tests for test_vwologin.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_vwologin.test_vwologin.executor": "Run",
     "Python tests.Python tests for test_vwologin2.test_vwo_login.executor": "Run",
@@ -71,6 +112,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/LENOVO/PycharmProjects/PyPlaywrightLearning/PythonPlaywright/code/03_projects",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -79,22 +121,7 @@
       <recent name="C:\Users\LENOVO\PycharmProjects\PyPlaywrightLearning\PythonPlaywright\code\01_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab006.test_vwo_login">
-    <configuration name="Python tests for test_Lab002.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonPlaywright" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/02_testcase" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab002.test_vwo_login_negative&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Project001.test_katalon_studio_appointment_booking">
     <configuration name="Python tests for test_Lab003.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonPlaywright" />
       <option name="ENV_FILES" value="" />
@@ -155,20 +182,35 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Project001.test_katalon_studio_appointment_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPlaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/03_projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Project001.test_katalon_studio_appointment_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python tests.Python tests for test_Lab006.test_vwo_login" />
+      <item itemvalue="Python tests.Python tests for test_Project001.test_katalon_studio_appointment_booking" />
       <item itemvalue="Python tests.Python tests for test_Lab003.test_vwo_login_negative" />
       <item itemvalue="Python tests.Python tests for test_Lab004.test_vwo_Login_negative" />
       <item itemvalue="Python tests.Python tests for test_Lab005.test_alerts" />
-      <item itemvalue="Python tests.Python tests for test_Lab002.test_vwo_login_negative" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Project001.test_katalon_studio_appointment_booking" />
         <item itemvalue="Python tests.Python tests for test_Lab006.test_vwo_login" />
         <item itemvalue="Python tests.Python tests for test_Lab005.test_alerts" />
         <item itemvalue="Python tests.Python tests for test_Lab004.test_vwo_Login_negative" />
         <item itemvalue="Python tests.Python tests for test_Lab003.test_vwo_login_negative" />
-        <item itemvalue="Python tests.Python tests for test_Lab002.test_vwo_login_negative" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749834561554</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="playwright learning">
+      <option name="closed" value="true" />
+      <created>1749899262638</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749899262638</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
