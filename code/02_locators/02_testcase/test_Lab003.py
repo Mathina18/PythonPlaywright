@@ -1,4 +1,5 @@
 import time
+import pytest
 from playwright.sync_api import expect,sync_playwright
 
 @pytest.fixture()
@@ -16,4 +17,12 @@ def test_vwo_login_negative(setUp):
     page = setUp
     page.goto("https://selectorshub.com/xpath-practice-page/")
     page.wait_for_load_state("networkidle")
-    page.locator()
+    div = page.locator("xpath = //div[@class='jackPart']")
+    div.scroll_into_view_if_needed()
+
+    # Directly interact with shadow DOM elements
+    link = page.locator("div.jackPart #app2 #pizza")
+    print(link.input_value())
+    link.fill("Farmhouse")
+
+    time.sleep(20)

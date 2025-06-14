@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b46ed9dd-e806-4da9-ae5a-2d7521a9cfab" name="Changes" comment="playwright learning">
-      <change afterPath="$PROJECT_DIR$/code/02_locators/01_Xpath/test_Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab006.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/02_locators/00_basics/test_Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/02_locators/00_basics/test_Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/02_locators/02_testcase/test_Lab003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,11 @@
     "Python tests.Python tests for test_Lab001.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_Lab002.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_Lab002.test_vwo_login_negative.executor": "Run",
+    "Python tests.Python tests for test_Lab003.test_vwo_login_negative.executor": "Run",
+    "Python tests.Python tests for test_Lab004.test_vwo_Login_negative.executor": "Run",
     "Python tests.Python tests for test_Lab004.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab005.test_alerts.executor": "Run",
+    "Python tests.Python tests for test_Lab006.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_vwologin.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_vwologin.test_vwologin.executor": "Run",
     "Python tests.Python tests for test_vwologin2.test_vwo_login.executor": "Run",
@@ -75,37 +79,7 @@
       <recent name="C:\Users\LENOVO\PycharmProjects\PyPlaywrightLearning\PythonPlaywright\code\01_Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab002.test_vwo_login_negative">
-    <configuration name="Python tests for test_Lab001.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonPlaywright" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/01_Xpath" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab001.test_vwo_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab002.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonPlaywright" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/00_basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab002.test_vwo_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab006.test_vwo_login">
     <configuration name="Python tests for test_Lab002.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonPlaywright" />
       <option name="ENV_FILES" value="" />
@@ -121,50 +95,80 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab004.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab003.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonPlaywright" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/00_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/02_testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab004.test_vwo_login&quot;" />
+      <option name="_new_target" value="&quot;test_Lab003.test_vwo_login_negative&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for text_Lab003.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab004.test_vwo_Login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonPlaywright" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/00_basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/02_testcase" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;text_Lab003.test_vwo_login&quot;" />
+      <option name="_new_target" value="&quot;test_Lab004.test_vwo_Login_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab005.test_alerts" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPlaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/02_testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab005.test_alerts&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab006.test_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPlaywright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/02_locators/02_testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab006.test_vwo_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests for test_Lab001.test_vwo_login (1)" />
+      <item itemvalue="Python tests.Python tests for test_Lab006.test_vwo_login" />
+      <item itemvalue="Python tests.Python tests for test_Lab003.test_vwo_login_negative" />
+      <item itemvalue="Python tests.Python tests for test_Lab004.test_vwo_Login_negative" />
+      <item itemvalue="Python tests.Python tests for test_Lab005.test_alerts" />
       <item itemvalue="Python tests.Python tests for test_Lab002.test_vwo_login_negative" />
-      <item itemvalue="Python tests.Python tests for test_Lab004.test_vwo_login" />
-      <item itemvalue="Python tests.Python tests for test_Lab002.test_vwo_login" />
-      <item itemvalue="Python tests.Python tests for text_Lab003.test_vwo_login" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab006.test_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_Lab005.test_alerts" />
+        <item itemvalue="Python tests.Python tests for test_Lab004.test_vwo_Login_negative" />
+        <item itemvalue="Python tests.Python tests for test_Lab003.test_vwo_login_negative" />
         <item itemvalue="Python tests.Python tests for test_Lab002.test_vwo_login_negative" />
-        <item itemvalue="Python tests.Python tests for test_Lab001.test_vwo_login (1)" />
-        <item itemvalue="Python tests.Python tests for test_Lab004.test_vwo_login" />
-        <item itemvalue="Python tests.Python tests for text_Lab003.test_vwo_login" />
-        <item itemvalue="Python tests.Python tests for test_Lab002.test_vwo_login" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749660192816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="playwright learning">
+      <option name="closed" value="true" />
+      <created>1749834561554</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749834561554</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
